@@ -1,7 +1,7 @@
 
-# kindle_weatherdisplay_battery-optimized
+# kindle_weatherdisplay_with-regional-air-quality-data
 
-## Kindle Touch und PaperWhite2 als Wetterstation
+## Kindle Touch und PaperWhite2 als Wetterstation ergänzt um UBA Luftqualitätsdaten
 
 Gleich erst mal zu Beginn:
 Schlagt es euch gleich erst mal aus dem Kopf, wenn ihr denkt, ihr haut das Skript auf einen Server im LAN und die Dateien auf das Kindle, fertig. So wird das nichts! Die beiden Skripts, vor allem aber `cron_kindle-wetter.py` (Server), welches für die Erstellung der PNG-Datei verantwortlich ist, ist extrem auf meine Bedürfnisse angepasst und muss von euch, an eure Geräte und Bedürfnisse, angepasst werden.
