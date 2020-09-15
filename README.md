@@ -106,6 +106,11 @@ Das Skript `weatherscript.sh` gehört auf das Kindle, bei mir `/mnt/us/scripts/`
 
 ### Datenbank
 
+Die folgenden Datenbanken und Tabellen mit den entsprechenden Spaltennamen sind vorgängig zu erstellen, damit die Skripte die entsprechenden Sensordaten speichern und min-max Ausgaben machen können:
+* DB: homematic_data, uba_data 
+* Tabellen: HMIP_SENSORS, SENSOR_DATA und airqualityindex, STATION_Data
+Bem: Die Angaben in der Tabelle HMIP_SENSORS werden nicht alle vom Skript benötigt, erleichtern aber die Zuordnung in anderen SQL-Skripten.
+
 <div>
 <img src="https://github.com/phrenault/kindle_weatherdisplay_with-regional-air-quality-data/blob/master/images/SQL-Table1.png" width="48%" style="border:1px solid lightgray" alt="SQL-Table1">
 <img src="https://github.com/phrenault/kindle_weatherdisplay_with-regional-air-quality-data/blob/master/images/SQL-Table2.png" width="48%" style="border:1px solid lightgray" alt="SQL-Table1">
