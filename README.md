@@ -1,9 +1,8 @@
 
 # kindle_weatherdisplay_with-regional-air-quality-data
 
-## Kindle Touch und PaperWhite2 als Wetterstation ergänzt um UBA Luftqualitätsdaten
-## Kindle Touch and PaperWhite2 as weather station with regional air-quality data for Germany
-
+## Kindle Touch und PaperWhite2 als Wetterstation ergänzt um UBA Luftqualitätsdatenn (Engl. Kindle Touch and PaperWhite2 as weather station with regional air-quality data for Germany)
+---
 ## Spezifizität dieser Version
 
 - Angepasst für Synology NAS mit pyMySQL, Python3
