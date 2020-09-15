@@ -8,7 +8,8 @@ Schlagt es euch gleich erst mal aus dem Kopf, wenn ihr denkt, ihr haut das Skrip
 
 Ohne Basic-Kenntnisse im Skripting: **FINGER WEG!**
 
-<img src="https://raw.githubusercontent.com/nicoh88/kindle-kt3_weatherdisplay_battery-optimized/master/README.jpg" style="border:1px solid lightgray" alt="Zwei Kindle KT3 als Wetterstation">
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" style="border:1px solid lightgray" alt="Kindle Touch">
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" style="border:1px solid lightgray" alt="Kindle Touch">
 
 ## Batterie / Akku
 
