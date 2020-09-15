@@ -37,7 +37,7 @@ import pymysql # this library needs to be installed separately on Synology NAS: 
 from svglib.svglib import svg2rlg # this library needs to be installed separately on Synology NAS: via SSH with 'pip3 install svglib' 
 from reportlab.graphics import renderPM # this library is automatically installed when installing svglib
 from PIL import Image # this library is automatically installed when installing svglib 
-# To use DejaVuSans Font specified in SVG, install .TTF file in: /voluem1/@appstore/py3k/usr/local/python3.5/site-packages/reportlab/fonts/ via SSH
+# To use DejaVuSans Font specified in SVG, install .TTF file in: /volume1/@appstore/py3k/usr/local/python3.5/site-packages/reportlab/fonts/ via SSH
 from get_uba_airquality import get_uba_airquality
 
 ####################
