@@ -1,0 +1,18 @@
+Synology Diskstation: Installing Python PIP package installer
+
+1) Install Python from the Package Installer Web interface. I have Python 2.7 installed
+
+2) Connect to your Synology NAS through ssh
+
+3) Get the pip installer: wget https://bootstrap.pypa.io/get-pip.py
+
+4) Execute the installer: sudo python3 get-pip.py. (It will take a while!)
+
+5) Create symbolic link of pip: "ln -s /var/packages/py3k/target/usr/local/bin/pip3 /usr/bin/"
+
+6) Run pip to install "untangle" module: sudo pip3 install untangle
+   (see "pip3 help" for more info)
+
+7) Install MySQLdb connector: sudo pip3 install pymysql
+
+8) Install SvgLib + ReportLab: sudo pip3 install svglib
