@@ -25,8 +25,8 @@ Ohne Basic-Kenntnisse im Skripting: **FINGER WEG!** (Diese Aussage von Nico Hart
 
 Wenn man aber erfolgreich war sieht das Ergebnis beispielsweise wie folgt aus: links Kindle Touch (600 x 800) und rechts Kindle PaperWhite2 (758 x 1024)  
 <div>
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="Kindle Touch">
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="Kindle PW2">
+<img src="https://github.com/phrenault/kindle_weatherdisplay_with-regional-air-quality-data/blob/master/KindleWeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="Kindle Touch">
+<img src="https://github.com/phrenault/kindle_weatherdisplay_with-regional-air-quality-data/blob/master/Kindle2WeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="Kindle PW2">
 </div>
 
 ## Batterie / Akku
@@ -107,12 +107,12 @@ Das Skript `weatherscript.sh` gehört auf das Kindle, bei mir `/mnt/us/scripts/`
 ### Datenbank
 
 <div>
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="SQL-Table1">
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="SQL-Table1">
+<img src="https://github.com/phrenault/kindle_weatherdisplay_with-regional-air-quality-data/blob/master/images/SQL-Table1.png" width="48%" style="border:1px solid lightgray" alt="SQL-Table1">
+<img src="https://github.com/phrenault/kindle_weatherdisplay_with-regional-air-quality-data/blob/master/images/SQL-Table2.png" width="48%" style="border:1px solid lightgray" alt="SQL-Table1">
 </div>
 <div>
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="SQL-Table3">
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="SQL-Table4">
+<img src="https://github.com/phrenault/kindle_weatherdisplay_with-regional-air-quality-data/blob/master/images/SQL-Table3.png" width="48%" style="border:1px solid lightgray" alt="SQL-Table3">
+<img src="https://github.com/phrenault/kindle_weatherdisplay_with-regional-air-quality-data/blob/master/images/SQL-Table4.png" width="48%" style="border:1px solid lightgray" alt="SQL-Table4">
 </div>
 
 ### Server
