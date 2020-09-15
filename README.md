@@ -7,10 +7,10 @@ Gleich erst mal zu Beginn:
 Schlagt es euch gleich erst mal aus dem Kopf, wenn ihr denkt, ihr haut das Skript auf einen Server im LAN und die Dateien auf das Kindle, fertig. So wird das nichts! Die beiden Skripts, vor allem aber `cron_kindle-wetter.py` (Server), welches für die Erstellung der PNG-Datei verantwortlich ist, ist extrem auf meine Bedürfnisse angepasst und muss von euch, an eure Geräte und Bedürfnisse, angepasst werden.
 
 Ohne Basic-Kenntnisse im Skripting: **FINGER WEG!**
-
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" style="border:1px solid lightgray" alt="Kindle Touch">
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" style="border:1px solid lightgray" alt="Kindle PW2">
-
+<div>
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="50%" style="border:1px solid lightgray" alt="Kindle Touch">
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="50%" style="border:1px solid lightgray" alt="Kindle PW2">
+</div>
 ## Batterie / Akku
 
 Das Kindle-Skript `weatherscript.sh` ist auf möglichst lange Akkulaufzeit optimiert!
