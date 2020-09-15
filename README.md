@@ -8,8 +8,8 @@ Schlagt es euch gleich erst mal aus dem Kopf, wenn ihr denkt, ihr haut das Skrip
 
 Ohne Basic-Kenntnisse im Skripting: **FINGER WEG!**
 <div>
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="50%" style="border:1px solid lightgray" alt="Kindle Touch">
-<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="50%" style="border:1px solid lightgray" alt="Kindle PW2">
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="Kindle Touch">
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="Kindle PW2">
 </div>
 ## Batterie / Akku
 
