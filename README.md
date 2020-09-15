@@ -107,14 +107,14 @@ Das Skript `weatherscript.sh` gehört auf das Kindle, bei mir `/mnt/us/scripts/`
 ### Server
 
 * Variablen im Skript `cron_kindle-wetter.py` anpassen, ggf. das ganze Skript.
-* Skript `cron_kindle-wetter.py` und SVG `cron_kindle-wetter_preprocess.svg` übertragen.
+* Skript `cron_kindle-wetter.py`, `get_uba_airquality.py` und SVG `cron_kindle-wetter_preprocess.svg` übertragen.
 * Skript ausführbar machen `chmod 744 cron_kindle-wetter.py`.
 * Skript regelmäßig über Crontab ausführen.
 
 ### Kindle
 
 * Variablen im Skript `weatherscript.sh` anpassen, ggf. das ganze Skript.
-* Skript `weatherscript.sh`, Upstart-Datei `weather.conf` und die 5 PNGs auf Kindle übertragen - bei mir `/mnt/us/scripts/`. (Je nach Kindle Model sind hier entweder die PNG Dateien aus dem Ordner Kindle für Touch oder Kindle2 für PaperWhite2 zu verwenden. Die Skript Datei und Upstart-Datei ist identisch.)
+* Skript `weatherscript.sh`, Upstart-Datei `weather.conf` und die 5 PNGs auf Kindle übertragen - bei mir `/mnt/us/scripts/`. (Je nach Kindle Model sind hier entweder die PNG Dateien aus dem Ordner `Kindle` für Touch oder `Kindle2` für PaperWhite2 zu verwenden. Die Skript Datei und Upstart-Datei ist identisch.)
 * Skript ausführbar machen `chmod 744 weatherscript.sh`.
 * Upstart-Datei kopieren, vorher Kindle-Filesystem schreibbar machen `mntroot rw && cp /mnt/us/scripts/wetter.conf /etc/upstart/wetter.conf`
 * Nach einem Neustart des Kindles dauert es nun 60 Sekunden, bis das Skript `weatherscript.sh` startet und das PNG anzeigt.
