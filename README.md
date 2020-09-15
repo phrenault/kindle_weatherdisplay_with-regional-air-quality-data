@@ -104,6 +104,17 @@ Das Skript `weatherscript.sh` gehört auf das Kindle, bei mir `/mnt/us/scripts/`
 
 ## Installation
 
+### Datenbank
+
+<div>
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="SQL-Table1">
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="SQL-Table1">
+</div>
+<div>
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="SQL-Table3">
+<img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="SQL-Table4">
+</div>
+
 ### Server
 
 * Variablen im Skript `cron_kindle-wetter.py` anpassen, ggf. das ganze Skript.
