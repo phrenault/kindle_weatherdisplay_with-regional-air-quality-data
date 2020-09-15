@@ -2,11 +2,29 @@
 # kindle_weatherdisplay_with-regional-air-quality-data
 
 ## Kindle Touch und PaperWhite2 als Wetterstation ergänzt um UBA Luftqualitätsdaten
+## Kindle Touch and PaperWhite2 as weather station with regional air-quality data for Germany
 
-Gleich erst mal zu Beginn:
+## Spezifizität dieser Version
+
+- Angepasst für Synology NAS mit pyMySQL, Python3
+- Anpassungen um SvgLib+ReportLab zur Erzeugung von PNGs zu verwenden (meine Lösung auf dem Synology NAS)
+- Aufteilung und Vereinfachung der SQL Datentabellen 
+- Komplette Paramterisierung des Skripts 
+- Bugfix für undefinierte Variable "timestamp" im Original
+- Kompatible mit Kindle PaperWhite 2 (758 x 1024) und Kindle Touch (600 x 800) - verschieden Auflösungen und daher zwei SVG Templates
+- Neues zusätzliches Skript hinzugefügt, um die UmweltBundesAmt (UBA) Luftqualitätsdaten abzufragen und im Display für den eigenen Standort darzustellen
+
+ToDo: hardcoded for 3 devices only +no air quality
+      hardcoded humidity value for device WHZ  
+
+
+WARNUNG:
 Schlagt es euch gleich erst mal aus dem Kopf, wenn ihr denkt, ihr haut das Skript auf einen Server im LAN und die Dateien auf das Kindle, fertig. So wird das nichts! Die beiden Skripts, vor allem aber `cron_kindle-wetter.py` (Server), welches für die Erstellung der PNG-Datei verantwortlich ist, ist extrem auf meine Bedürfnisse angepasst und muss von euch, an eure Geräte und Bedürfnisse, angepasst werden.
+Die Originalskripte wurden mit zahlreichen Kommentaren ergänzt, um es Einsteigern zu erleichtern. Insbesondere ist darauf zu achten jeweils die "XXXX" in den Dateien durch die eigenen Werte anzupassen. Sonst funktioniert es nicht.
 
-Ohne Basic-Kenntnisse im Skripting: **FINGER WEG!**
+Ohne Basic-Kenntnisse im Skripting: **FINGER WEG!** (Diese Aussage von Nico Hartung kann ich nur unterstützen)
+
+Wenn man aber erfolgreich war sieht das Ergebnis beispielsweise wie folgt aus: links Kindle Touch (600 x 800) und rechts Kindle PaperWhite2 (758 x 1024)  
 <div>
 <img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/KindleWeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="Kindle Touch">
 <img src="https://github.com/phrenault/kindle-kt3_weatherdisplay_battery-optimized/blob/master/Kindle2WeatherDisplay_pub.jpg" width="48%" style="border:1px solid lightgray" alt="Kindle PW2">
@@ -97,7 +115,7 @@ Das Skript `weatherscript.sh` gehört auf das Kindle, bei mir `/mnt/us/scripts/`
 ### Kindle
 
 * Variablen im Skript `weatherscript.sh` anpassen, ggf. das ganze Skript.
-* Skript `weatherscript.sh`, Upstart-Datei `weather.conf` und die 5 PNGs auf Kindle übertragen - bei mir `/mnt/us/scripts/`.
+* Skript `weatherscript.sh`, Upstart-Datei `weather.conf` und die 5 PNGs auf Kindle übertragen - bei mir `/mnt/us/scripts/`. (Je nach Kindle Model sind hier entweder die PNG Dateien aus dem Ordner Kindle für Touch oder Kindle2 für PaperWhite2 zu verwenden. Die Skript Datei und Upstart-Datei ist identisch.)
 * Skript ausführbar machen `chmod 744 weatherscript.sh`.
 * Upstart-Datei kopieren, vorher Kindle-Filesystem schreibbar machen `mntroot rw && cp /mnt/us/scripts/wetter.conf /etc/upstart/wetter.conf`
 * Nach einem Neustart des Kindles dauert es nun 60 Sekunden, bis das Skript `weatherscript.sh` startet und das PNG anzeigt.
@@ -109,9 +127,7 @@ Wenn ihr Mal mehr Zeit in der üblichen Kindle-UI benötigt oder es euch nicht m
 
 ## Versionsverlauf
 
-2018-07-23 - neues Layout und Umstellung auf DarkSky API (alte Version in den "180405" Ordnern), Fehlerbehebungen
-2018-04-05 - Fehlerbehebungen
-2018-03-24 - Skripts veröffentlicht
+2020-09-15 - Erstes öffentliches Commit meines Fork mit etlichen Anpassungen auf der Basis vom Original von Nico Hartung
 
 
 ## Lizenz
