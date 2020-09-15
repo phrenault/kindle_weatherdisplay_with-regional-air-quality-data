@@ -1,5 +1,5 @@
 
-# kindle_weatherdisplay_with-regional-air-quality-data
+# Kindle weather display for HmIP with regional air quality data implementation
 
 ## Kindle Touch und PaperWhite2 als Wetterstation ergänzt um UBA Luftqualitätsdatenn (Engl. Kindle Touch and PaperWhite2 as weather station with regional air-quality data for Germany)
 ---
