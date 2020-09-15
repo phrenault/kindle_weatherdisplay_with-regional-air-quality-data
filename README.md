@@ -107,8 +107,9 @@ Das Skript `weatherscript.sh` gehört auf das Kindle, bei mir `/mnt/us/scripts/`
 ### Datenbank
 
 Die folgenden Datenbanken und Tabellen mit den entsprechenden Spaltennamen sind vorgängig zu erstellen, damit die Skripte die entsprechenden Sensordaten speichern und min-max Ausgaben machen können:
-* DB: homematic_data, uba_data 
-* Tabellen: HMIP_SENSORS, SENSOR_DATA und airqualityindex, STATION_Data
+* DB: `homematic_data`, `uba_data` 
+* Tabellen: `HMIP_SENSORS`, `SENSOR_DATA` und `airqualityindex`, `STATION_Data`
+
 Bem: Die Angaben in der Tabelle HMIP_SENSORS werden nicht alle vom Skript benötigt, erleichtern aber die Zuordnung in anderen SQL-Skripten.
 
 <div>
