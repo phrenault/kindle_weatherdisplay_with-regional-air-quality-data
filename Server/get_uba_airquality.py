@@ -108,7 +108,8 @@ def get_uba_airquality(state):
 		2: 'schlecht',
 		3: 'mäßig',
 		4: 'gut',
-		5: 'sehr gut'}
+		5: 'sehr gut',
+		99: 'k.A.'}
 		
 	#####################
 	if state == 'write':
@@ -187,7 +188,10 @@ def get_uba_airquality(state):
 			for key in DATA:
 				datapointid = key
 				DATA[key] = sqlseluba(cursor, str(datapointid))
-				idx = int(DATA['LQI'])
+				if DATA['LQI'] is None:
+					idx = 99
+				else:
+					idx = int(DATA['LQI'])
 		finally:
 			db.close()
 
