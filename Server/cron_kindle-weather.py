@@ -3,17 +3,16 @@
 #######################################################
 ### Autor: Nico Hartung <nicohartung1@googlemail.com> #
 ### Modified by: Philippe Renault, Date: 20.08.2020   #
-### Improvements:                                     #
+### Improvements:									  #
 ### - adapted for Synology NAS with pyMySQL, Python3  #
 ### - modified to use SvgLib+ReportLab to create PNG  #
-### - output of log switched on via parameter only    # 
 ### - split and simplification of SQL data table      # 
 ### - further paramterisation of script               # 
 ### - bugfix for undefined variable "timestamp"       #
 ### - compatible with Kindle PaperWhite 2 (758 x 1024)#
 ###   and Kindle Touch (600 x 800)                    #
 ### - added Germany UBA air quality station data      #
-###                                                   #
+###													  #
 ### ToDo: hardcoded for 3 devices only +no air quality#
 ###       hardcoded humidity value for device WHZ     #
 #######################################################
@@ -37,7 +36,7 @@ import pymysql # this library needs to be installed separately on Synology NAS: 
 from svglib.svglib import svg2rlg # this library needs to be installed separately on Synology NAS: via SSH with 'pip3 install svglib' 
 from reportlab.graphics import renderPM # this library is automatically installed when installing svglib
 from PIL import Image # this library is automatically installed when installing svglib 
-# To use DejaVuSans Font specified in SVG, install .TTF file in: /volume1/@appstore/py3k/usr/local/python3.5/site-packages/reportlab/fonts/ via SSH
+# To use DejaVuSans Font specified in SVG, install .TTF file in: /volume1/@appstore/py3k/usr/local/lib/python3.8/site-packages/reportlab/fonts/ via SSH
 from get_uba_airquality import get_uba_airquality
 
 ####################
@@ -49,10 +48,10 @@ locale.setlocale(locale.LC_TIME, "de_DE.UTF-8")
 WEATHER_URL = "https://api.darksky.net/forecast"
 ###################################################################################################
 # UserInput (replace ... with your own info):
-WEATHER_KEY = "XXXX"	# Get your own secret key by free registration at darksyky.net!
-CITY = "XXXX"
-LATITUDE = "XXXX"
-LONGTITUDE = "XXXX"
+WEATHER_KEY = "6c0d6810bdca1da5d13a092e8070062d"	# Get your own secret key by free registration at darksyky.net!
+CITY = "Jülich, NRW, DE"
+LATITUDE = "50.929925"
+LONGTITUDE = "6.363001"
 
 PATH = "/volume1/web/kindleweatherdisplay" # Path to all files necessary for the script, placed in new folder "kindleweatherdisplay"
 LOG = "log/cron_kindle-weather.log"	# Create empty file in sub-directoy on server with this name
@@ -61,15 +60,15 @@ SVG_FILE2 = "%s/cron_kindle_touch-weather_preprocess.svg" % PATH # using SVG for
 SVG_OUTPUT = "%s/cron_kindle-weather_output.svg" % PATH
 TMP_OUTPUT = "%s/cron_kindle-weather_tmp.png" % PATH
 
-HOMEMATICIP = "192.168.178.XXX"	# IP of Homematic CCU
-DEVICES = [XXXX,XXXX,XXXX]		# DeviceID for Garten (Wettersensor), Wohnzimmer (Temp), DG-Whz (Temp); Pay attention to order, Max 3!
+HOMEMATICIP = "192.168.178.3"	# IP of Homematic CCU
+DEVICES = [4633,3617,2294]		# DeviceID for Garten (Wettersensor), Wohnzimmer (Temp), DG-Whz (Temp); Pay attention to order, Max 3!
 								# See "http://{YOUR-HOMEMATICIP}/addons/xmlapi/state.cgi?device_id={DEVICE}"
 ROOMS = ["Wohnzimmer", "DG-Whz"]	# Order corresponding to device #2 and #3 (Max 2!)
 
 SQLHOST = "localhost"
 SQLPORT = 3307				# Port must be specified as number not string
 SQLUSER = "root"
-SQLPW = "XXXX"
+SQLPW = "43.gWkh!"
 SQLDB = "homematic_data"	# Name of database with the following two tables
 SQLTAB = "SENSOR_DATA"		# Table with sensor data in three rows: SENSOR, VALUE, DATETIME
 SQLTAB2 = "HMIP_SENSORS"    # Optional: Table with overview of associated meta-data in rows: RAUM, ID, BEZEICHNUNG, SENSORART, SHORTFORM, EINHEIT
@@ -184,7 +183,7 @@ while tries < max_tries:
 			logging.info("- weatherdata_now | icon: %s" % (weatherdata_now_icon))
 
 
-		# Astronomy
+		# Astronomie
 		astronomy_today_sunrise = datetime.fromtimestamp(int(parsed_apidata['daily']['data'][0]['sunriseTime'])).strftime("%H:%M")
 		astronomy_today_sunset = datetime.fromtimestamp(int(parsed_apidata['daily']['data'][0]['sunsetTime'])).strftime("%H:%M")
 		astronomy_today_moonphase = parsed_apidata['daily']['data'][0]['moonPhase']*100
