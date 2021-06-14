@@ -92,7 +92,7 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="681.89899"
      x="9.3398438"><tspan
@@ -100,7 +100,7 @@
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;text-decoration-line:underline"
        text-decoration="underline"
        font-size="20px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="681.89899"
        x="9.3398438">$ROOM1</tspan></text>
   <text
@@ -109,7 +109,7 @@
      text-anchor="end"
      text-align="end"
      font-size="6.6667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="741.83844"
      x="269.67926">
     <tspan
@@ -118,7 +118,7 @@
        text-anchor="end"
        text-align="end"
        font-size="9.3333px"
-       font-family="'DejaVuSans'">MIN</tspan>
+       font-family="'Helvetica'">MIN</tspan>
   </text>
   <text
      id="text42"
@@ -129,7 +129,7 @@
      text-anchor="end"
      text-align="end"
      letter-spacing="0px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="755.48737"
      x="269.41064"><tspan
@@ -147,7 +147,7 @@
      text-anchor="end"
      text-align="end"
      font-size="6.6667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="717.33893"
      x="268.28864">
     <tspan
@@ -156,7 +156,7 @@
        text-anchor="end"
        text-align="end"
        font-size="9.3333px"
-       font-family="'DejaVuSans'">MAX</tspan>
+       font-family="'Helvetica'">MAX</tspan>
   </text>
   <text
      id="text52"
@@ -167,7 +167,7 @@
      text-anchor="end"
      text-align="end"
      letter-spacing="0px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="731.48688"
      x="268.54254"><tspan
@@ -182,7 +182,7 @@
   <text
      id="text58"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="756.00043"
      x="273.24701">
     <tspan
@@ -200,7 +200,7 @@
      text-anchor="middle"
      text-align="center"
      font-size="20px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="701.78125"
      x="312.20511">
     <tspan
@@ -209,7 +209,7 @@
        text-anchor="middle"
        text-align="center"
        font-size="10.667px"
-       font-family="'DejaVuSans'">Luftfeuchtigkeit (%)</tspan>
+       font-family="'Helvetica'">Luftfeuchtigkeit (%)</tspan>
   </text>
   <text
      id="text66"
@@ -221,7 +221,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="13.333px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="731.48688"
      x="590.62579"><tspan
@@ -230,14 +230,14 @@
        text-anchor="end"
        text-align="end"
        font-size="16px"
-       font-family="'DejaVuSans'">$QH</tspan></text>
+       font-family="'Helvetica'">$QH</tspan></text>
   <text
      id="text70"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      text-anchor="end"
      text-align="end"
      font-size="6.6667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="717.33905"
      x="588.79065">
     <tspan
@@ -246,7 +246,7 @@
        text-anchor="end"
        text-align="end"
        font-size="9.3333px"
-       font-family="'DejaVuSans'">MAX</tspan>
+       font-family="'Helvetica'">MAX</tspan>
   </text>
   <text
      id="text74"
@@ -258,7 +258,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="13.333px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="755.48755"
      x="590.07379"><tspan
@@ -267,14 +267,14 @@
        text-anchor="end"
        text-align="end"
        font-size="16px"
-       font-family="'DejaVuSans'">$QL</tspan></text>
+       font-family="'Helvetica'">$QL</tspan></text>
   <text
      id="text78"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      text-anchor="end"
      text-align="end"
      font-size="6.6667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="741.83844"
      x="590.31189">
     <tspan
@@ -283,7 +283,7 @@
        text-anchor="end"
        text-align="end"
        font-size="9.3333px"
-       font-family="'DejaVuSans'">MIN</tspan>
+       font-family="'Helvetica'">MIN</tspan>
   </text>
   <text
      id="text82"
@@ -291,7 +291,7 @@
      text-anchor="end"
      text-align="end"
      font-size="53.333px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="756.00055"
      x="550.3855">
     <tspan
@@ -300,7 +300,7 @@
        text-anchor="end"
        text-align="end"
        font-size="60px"
-       font-family="'DejaVuSans'">$AQ</tspan>
+       font-family="'Helvetica'">$AQ</tspan>
   </text>
   <text
      id="text86"
@@ -309,7 +309,7 @@
      text-align="end"
      stroke-width=".98447"
      font-size="19.689px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="688.04834"
      x="598.67334"
      transform="scale(.98445 1.0158)">
@@ -320,7 +320,7 @@
        text-align="end"
        stroke-width=".98447"
        font-size="10.667px"
-       font-family="'DejaVuSans'">Luftqualität (ppm)</tspan>
+       font-family="'Helvetica'">Luftqualität (ppm)</tspan>
   </text>
   <text
      id="text90"
@@ -330,26 +330,26 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="13.333px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="731.48688"
      x="9.8932571"><tspan
        id="tspan88"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="16px"
-       font-family="'DejaVuSans'">$BSH</tspan></text>
+       font-family="'Helvetica'">$BSH</tspan></text>
   <text
      id="text94"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      font-size="8px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="717.33875"
      x="10.436226">
     <tspan
        id="tspan92"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="9.3333px"
-       font-family="'DejaVuSans'">MAX</tspan>
+       font-family="'Helvetica'">MAX</tspan>
   </text>
   <text
      id="text98"
@@ -359,52 +359,52 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="16px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="755.48718"
      x="9.8932571"><tspan
        id="tspan96"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="16px"
-       font-family="'DejaVuSans'">$BSL</tspan></text>
+       font-family="'Helvetica'">$BSL</tspan></text>
   <text
      id="text102"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      font-size="8px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="741.83844"
      x="10.436226">
     <tspan
        id="tspan100"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="9.3333px"
-       font-family="'DejaVuSans'">MIN</tspan>
+       font-family="'Helvetica'">MIN</tspan>
   </text>
   <text
      id="text106"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      font-size="53.333px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="756.00018"
      x="55.019531">
     <tspan
        id="tspan104"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="60px"
-       font-family="'DejaVuSans'">$BT</tspan>
+       font-family="'Helvetica'">$BT</tspan>
   </text>
   <text
      id="text110"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      font-size="20px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="701.78125"
      x="11.031251">
     <tspan
        id="tspan108"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="10.667px"
-       font-family="'DejaVuSans'">Temperatur (°C)</tspan>
+       font-family="'Helvetica'">Temperatur (°C)</tspan>
   </text>
   <path
      id="path112"
@@ -420,7 +420,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="203.29675"
      x="591.96875"><tspan
@@ -429,14 +429,14 @@
        text-anchor="end"
        text-align="end"
        font-size="32px"
-       font-family="'DejaVuSans'">$CHL</tspan></text>
+       font-family="'Helvetica'">$CHL</tspan></text>
   <text
      id="text148"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      text-anchor="end"
      text-align="end"
      font-size="16px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="176.51239"
      x="471.14844">MAX</text>
   <text
@@ -449,7 +449,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="203.29688"
      x="472.22232"><tspan
@@ -458,14 +458,14 @@
        text-anchor="end"
        text-align="end"
        font-size="32px"
-       font-family="'DejaVuSans'">$CHH</tspan></text>
+       font-family="'Helvetica'">$CHH</tspan></text>
   <text
      id="text156"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      text-anchor="end"
      text-align="end"
      font-size="16px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="177.09802"
      x="589.92969">
     <tspan
@@ -474,7 +474,7 @@
        text-anchor="end"
        text-align="end"
        font-size="16px"
-       font-family="'DejaVuSans'">MIN</tspan>
+       font-family="'Helvetica'">MIN</tspan>
   </text>
   <text
      id="text160"
@@ -482,7 +482,7 @@
      text-anchor="end"
      text-align="end"
      font-size="133.33px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="153.40363"
      x="603.56152">
     <tspan
@@ -491,110 +491,110 @@
        text-anchor="end"
        text-align="end"
        font-size="133.33px"
-       font-family="'DejaVuSans'">$CT</tspan>
+       font-family="'Helvetica'">$CT</tspan>
   </text>
   <use
      id="use162"
      xlink:href="#$I0"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.72798 0 0 .728 180 46.998)" />
   <use
      id="use164"
      xlink:href="#$J01"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 11 288.51)" />
   <use
      id="use166"
      xlink:href="#$J02"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 60.1 288.51)" />
   <use
      id="use168"
      xlink:href="#$J03"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 109.2 288.51)" />
   <use
      id="use170"
      xlink:href="#$J04"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 158.3 288.51)" />
   <use
      id="use172"
      xlink:href="#$J05"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 207.4 288.51)" />
   <use
      id="use174"
      xlink:href="#$J06"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 256.5 288.51)" />
   <use
      id="use176"
      xlink:href="#$J07"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 305.6 288.51)" />
   <use
      id="use178"
      xlink:href="#$J08"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 354.7 288.51)" />
   <use
      id="use180"
      xlink:href="#$J09"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 403.8 288.51)" />
   <use
      id="use182"
      xlink:href="#$J10"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 452.9 288.51)" />
   <use
      id="use184"
      xlink:href="#$J11"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 502 288.51)" />
   <use
      id="use186"
      xlink:href="#$J12"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 550 288.51)" />
   <use
      id="use188"
      xlink:href="#sunrise"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.62508 0 0 .62508 265.15 197.5)" />
   <use
      id="use190"
      xlink:href="#sunset"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.62508 0 0 .62508 385.75 197.5)" />
@@ -605,7 +605,7 @@
      text-anchor="end"
      text-align="end"
      font-size="20px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="236.66444"
      x="382.44574"><tspan
        id="tspan192"
@@ -613,7 +613,7 @@
        text-anchor="end"
        text-align="end"
        font-size="22.667px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="236.66444"
        x="382.44574">$sunrise</tspan></text>
   <text
@@ -621,7 +621,7 @@
      xml:space="preserve"
      text-anchor="end"
      font-size="20px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="236.66443"
      x="502.81122"><tspan
        id="tspan196"
@@ -629,7 +629,7 @@
        text-anchor="end"
        text-align="end"
        font-size="22.667px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="236.66443"
        x="502.81122">$sunset</tspan></text>
   <path
@@ -640,21 +640,21 @@
      id="text202"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      font-size="12px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="792.23633"
      x="10.003906">$TIME</text>
   <text
      id="text206"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      font-size="12px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="792.23633"
      x="137.74023">
     <tspan
        id="tspan204"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="12px"
-       font-family="'DejaVuSans'">$LOC</tspan>
+       font-family="'Helvetica'">$LOC</tspan>
   </text>
   <path
      style="stroke-width:0.77547002"
@@ -662,163 +662,163 @@
      d="m 10,264 h 580 v 1 H 10 Z" />
   <text
      id="text212"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="128.48624">
     <tspan
        id="tspan210"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K03 Uhr</tspan>
   </text>
   <text
      id="text216"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="79.586227">
     <tspan
        id="tspan214"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K02 Uhr</tspan>
   </text>
   <text
      id="text220"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="226.78622">
     <tspan
        id="tspan218"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K05 Uhr</tspan>
   </text>
   <text
      id="text224"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="521.38623">
     <tspan
        id="tspan222"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K11 Uhr</tspan>
   </text>
   <text
      id="text228"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="325.08624">
     <tspan
        id="tspan226"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K07 Uhr</tspan>
   </text>
   <text
      id="text232"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="423.18622">
     <tspan
        id="tspan230"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K09 Uhr</tspan>
   </text>
   <text
      id="text236"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="569.38623">
     <tspan
        id="tspan234"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K12 Uhr</tspan>
   </text>
   <text
      id="text240"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="374.18622">
     <tspan
        id="tspan238"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K08 Uhr</tspan>
   </text>
   <text
      id="text244"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="472.28622">
     <tspan
        id="tspan242"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K10 Uhr</tspan>
   </text>
   <text
      id="text248"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="275.88623">
     <tspan
        id="tspan246"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K06 Uhr</tspan>
   </text>
   <text
      id="text252"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="177.58623">
     <tspan
        id="tspan250"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K04 Uhr</tspan>
   </text>
   <text
      id="text256"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="287.54041"
      x="30.486231">
     <tspan
        id="tspan254"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K01 Uhr</tspan>
   </text>
   <text
      id="text260"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -826,14 +826,14 @@
      x="129.34375">
     <tspan
        id="tspan258"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T03</tspan>
   </text>
   <text
      id="text264"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -841,14 +841,14 @@
      x="80.34375">
     <tspan
        id="tspan262"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T02</tspan>
   </text>
   <text
      id="text268"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -856,14 +856,14 @@
      x="227.54375">
     <tspan
        id="tspan266"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T05</tspan>
   </text>
   <text
      id="text272"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -871,14 +871,14 @@
      x="521.94373">
     <tspan
        id="tspan270"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T11</tspan>
   </text>
   <text
      id="text276"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -886,14 +886,14 @@
      x="325.44376">
     <tspan
        id="tspan274"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T07</tspan>
   </text>
   <text
      id="text280"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -901,14 +901,14 @@
      x="423.64374">
     <tspan
        id="tspan278"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T09</tspan>
   </text>
   <text
      id="text284"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -916,14 +916,14 @@
      x="570.04376">
     <tspan
        id="tspan282"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T12</tspan>
   </text>
   <text
      id="text288"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -931,14 +931,14 @@
      x="374.64374">
     <tspan
        id="tspan286"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T08</tspan>
   </text>
   <text
      id="text292"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -946,14 +946,14 @@
      x="473.34375">
     <tspan
        id="tspan290"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T10</tspan>
   </text>
   <text
      id="text296"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -961,14 +961,14 @@
      x="276.54376">
     <tspan
        id="tspan294"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T06</tspan>
   </text>
   <text
      id="text300"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -976,14 +976,14 @@
      x="178.34375">
     <tspan
        id="tspan298"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T04</tspan>
   </text>
   <text
      id="text304"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -991,410 +991,410 @@
      x="31.043751">
     <tspan
        id="tspan302"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T01</tspan>
   </text>
   <text
      id="text308"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="30.962812">
     <tspan
        id="tspan306"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R01</tspan>
   </text>
   <text
      id="text312"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="521.86279">
     <tspan
        id="tspan310"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R11</tspan>
   </text>
   <text
      id="text316"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="570.26282">
     <tspan
        id="tspan314"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R12</tspan>
   </text>
   <text
      id="text320"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="423.5625">
     <tspan
        id="tspan318"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R09</tspan>
   </text>
   <text
      id="text324"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="374.46249">
     <tspan
        id="tspan322"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R08</tspan>
   </text>
   <text
      id="text328"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="276.35782">
     <tspan
        id="tspan326"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R06</tspan>
   </text>
   <text
      id="text332"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="227.25781">
     <tspan
        id="tspan330"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R05</tspan>
   </text>
   <text
      id="text336"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="177.95781">
     <tspan
        id="tspan334"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R04</tspan>
   </text>
   <text
      id="text340"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="129.25781">
     <tspan
        id="tspan338"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R03</tspan>
   </text>
   <text
      id="text344"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="80.207809">
     <tspan
        id="tspan342"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R02</tspan>
   </text>
   <text
      id="text348"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="472.5578">
     <tspan
        id="tspan346"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R10</tspan>
   </text>
   <text
      id="text352"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="341.82422"
      x="325.65781">
     <tspan
        id="tspan350"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R07</tspan>
   </text>
   <use
      id="use354"
      xlink:href="#$J13"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 11 382.51)" />
   <use
      id="use356"
      xlink:href="#$J14"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 60.1 382.51)" />
   <use
      id="use358"
      xlink:href="#$J15"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 109.2 382.51)" />
   <use
      id="use360"
      xlink:href="#$J16"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 158.3 382.51)" />
   <use
      id="use362"
      xlink:href="#$J17"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 207.4 382.51)" />
   <use
      id="use364"
      xlink:href="#$J18"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 256.5 382.51)" />
   <use
      id="use366"
      xlink:href="#$J19"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 305.6 382.51)" />
   <use
      id="use368"
      xlink:href="#$J20"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 354.7 382.51)" />
   <use
      id="use370"
      xlink:href="#$J21"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 403.8 382.51)" />
   <use
      id="use372"
      xlink:href="#$J22"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 452.9 382.51)" />
   <use
      id="use374"
      xlink:href="#$J23"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 502 382.51)" />
   <use
      id="use376"
      xlink:href="#$J24"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 550 382.51)" />
   <text
      id="text380"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="128.48624">
     <tspan
        id="tspan378"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K15 Uhr</tspan>
   </text>
   <text
      id="text384"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="79.586227">
     <tspan
        id="tspan382"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K14 Uhr</tspan>
   </text>
   <text
      id="text388"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="226.78622">
     <tspan
        id="tspan386"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K17 Uhr</tspan>
   </text>
   <text
      id="text392"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="521.38623">
     <tspan
        id="tspan390"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K23 Uhr</tspan>
   </text>
   <text
      id="text396"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="325.08624">
     <tspan
        id="tspan394"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K19 Uhr</tspan>
   </text>
   <text
      id="text400"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="423.18622">
     <tspan
        id="tspan398"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K21 Uhr</tspan>
   </text>
   <text
      id="text404"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="569.38623">
     <tspan
        id="tspan402"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K24 Uhr</tspan>
   </text>
   <text
      id="text408"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="374.18622">
     <tspan
        id="tspan406"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K20 Uhr</tspan>
   </text>
   <text
      id="text412"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="472.28622">
     <tspan
        id="tspan410"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K22 Uhr</tspan>
   </text>
   <text
      id="text416"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="275.88623">
     <tspan
        id="tspan414"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K18 Uhr</tspan>
   </text>
   <text
      id="text420"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="177.58623">
     <tspan
        id="tspan418"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K16 Uhr</tspan>
   </text>
   <text
      id="text424"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="381.54041"
      x="30.486231">
     <tspan
        id="tspan422"
-       style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="13.333px">$K13 Uhr</tspan>
   </text>
   <text
      id="text428"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1402,14 +1402,14 @@
      x="129.34375">
     <tspan
        id="tspan426"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T15</tspan>
   </text>
   <text
      id="text432"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1417,14 +1417,14 @@
      x="80.34375">
     <tspan
        id="tspan430"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T14</tspan>
   </text>
   <text
      id="text436"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1432,14 +1432,14 @@
      x="227.54375">
     <tspan
        id="tspan434"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T17</tspan>
   </text>
   <text
      id="text440"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1447,14 +1447,14 @@
      x="521.94373">
     <tspan
        id="tspan438"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T23</tspan>
   </text>
   <text
      id="text444"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1462,14 +1462,14 @@
      x="325.44376">
     <tspan
        id="tspan442"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T19</tspan>
   </text>
   <text
      id="text448"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1477,14 +1477,14 @@
      x="423.64374">
     <tspan
        id="tspan446"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T21</tspan>
   </text>
   <text
      id="text452"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1492,14 +1492,14 @@
      x="570.04376">
     <tspan
        id="tspan450"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T24</tspan>
   </text>
   <text
      id="text456"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1507,14 +1507,14 @@
      x="374.64374">
     <tspan
        id="tspan454"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T20</tspan>
   </text>
   <text
      id="text460"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1522,14 +1522,14 @@
      x="473.34375">
     <tspan
        id="tspan458"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T22</tspan>
   </text>
   <text
      id="text464"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1537,14 +1537,14 @@
      x="276.54376">
     <tspan
        id="tspan462"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T18</tspan>
   </text>
   <text
      id="text468"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1552,14 +1552,14 @@
      x="178.34375">
     <tspan
        id="tspan466"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T16</tspan>
   </text>
   <text
      id="text472"
-     style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-weight="bold"
      font-size="16px"
@@ -1567,164 +1567,164 @@
      x="31.043751">
     <tspan
        id="tspan470"
-       style="font-weight:bold;font-size:16px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-weight:bold;font-size:16px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-weight="bold"
        font-size="16px">$T13</tspan>
   </text>
   <text
      id="text476"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="30.962812">
     <tspan
        id="tspan474"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R13</tspan>
   </text>
   <text
      id="text480"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="521.86279">
     <tspan
        id="tspan478"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R23</tspan>
   </text>
   <text
      id="text484"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="570.26282">
     <tspan
        id="tspan482"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R24</tspan>
   </text>
   <text
      id="text488"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="423.5625">
     <tspan
        id="tspan486"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R21</tspan>
   </text>
   <text
      id="text492"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="374.46249">
     <tspan
        id="tspan490"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R20</tspan>
   </text>
   <text
      id="text496"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="276.35782">
     <tspan
        id="tspan494"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R18</tspan>
   </text>
   <text
      id="text500"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="227.25781">
     <tspan
        id="tspan498"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R17</tspan>
   </text>
   <text
      id="text504"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="177.95781">
     <tspan
        id="tspan502"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R16</tspan>
   </text>
   <text
      id="text508"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="129.25781">
     <tspan
        id="tspan506"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R15</tspan>
   </text>
   <text
      id="text512"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="80.207809">
     <tspan
        id="tspan510"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R14</tspan>
   </text>
   <text
      id="text516"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="472.5578">
     <tspan
        id="tspan514"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R22</tspan>
   </text>
   <text
      id="text520"
-     style="font-size:13.33300018px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+     style="font-size:13.33300018px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
      text-align="center"
      font-size="13.333px"
      y="435.82422"
      x="325.65781">
     <tspan
        id="tspan518"
-       style="font-size:8px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
+       style="font-size:8px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle"
        text-align="center"
        font-size="8px">$R19</tspan>
   </text>
@@ -1735,7 +1735,7 @@
   <use
      id="use554"
      xlink:href="#$I1"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 92 505.31)" />
@@ -1747,14 +1747,14 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="539.05249"
      x="7.6796875"><tspan
        id="tspan556"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="539.05249"
        x="7.6796875">$D1</tspan></text>
   <text
@@ -1767,7 +1767,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="539.05249"
      x="230.67969"><tspan
@@ -1776,7 +1776,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="539.05249"
        x="230.67969">$H1</tspan></text>
   <text
@@ -1789,7 +1789,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="539.05249"
      x="312.67969"><tspan
@@ -1798,7 +1798,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="539.05249"
        x="312.67969">$L1</tspan></text>
   <text
@@ -1811,7 +1811,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="539.052"
      x="492.67969"><tspan
@@ -1820,7 +1820,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="539.052"
        x="492.67969">$P1<tspan
    id="tspan568"
@@ -1828,7 +1828,7 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">%</tspan></tspan></text>
+   font-family="'Helvetica'">%</tspan></tspan></text>
   <text
      id="text578"
      xml:space="preserve"
@@ -1839,7 +1839,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="539.052"
      x="404.67969"><tspan
@@ -1848,7 +1848,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="539.052"
        x="404.67969">$W1<tspan
    id="tspan574"
@@ -1856,7 +1856,7 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">≈</tspan></tspan></text>
+   font-family="'Helvetica'">≈</tspan></tspan></text>
   <text
      id="text584"
      xml:space="preserve"
@@ -1867,7 +1867,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="539.052"
      x="584.67969"><tspan
@@ -1876,7 +1876,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="539.052"
        x="584.67969">$M1<tspan
    id="tspan580"
@@ -1884,14 +1884,14 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">¤</tspan></tspan></text>
+   font-family="'Helvetica'">¤</tspan></tspan></text>
   <text
      id="text588"
      style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
      text-anchor="end"
      text-align="end"
      font-size="12px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="791.50391"
      x="590.41797">
     <tspan
@@ -1900,7 +1900,7 @@
        text-anchor="end"
        text-align="end"
        font-size="12px"
-       font-family="'DejaVuSans'">DarkSky API + HomematicIP Wettersensor Pro</tspan>
+       font-family="'Helvetica'">DarkSky API + HomematicIP Wettersensor Pro</tspan>
   </text>
   <text
      id="text592"
@@ -1943,7 +1943,7 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="10.667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="488.17819"
      x="159.71355"><tspan
@@ -1965,7 +1965,7 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="10.667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="488.17819"
      x="248.03125"><tspan
@@ -1987,7 +1987,7 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="10.667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="488.17819"
      x="338.03125"><tspan
@@ -2009,7 +2009,7 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="10.667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="487.33075"
      x="433.64584"><tspan
@@ -2031,7 +2031,7 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="10.667px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="487.33075"
      x="513.55212"><tspan
@@ -2048,7 +2048,7 @@
   <use
      id="use628"
      xlink:href="#$I2"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 92 551.31)" />
@@ -2060,14 +2060,14 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="585.05249"
      x="7.6796875"><tspan
        id="tspan630"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="585.05249"
        x="7.6796875">$D2</tspan></text>
   <text
@@ -2080,7 +2080,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="585.05249"
      x="230.67969"><tspan
@@ -2089,7 +2089,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="585.05249"
        x="230.67969">$H2</tspan></text>
   <text
@@ -2102,7 +2102,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="585.05249"
      x="312.67969"><tspan
@@ -2111,7 +2111,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="585.05249"
        x="312.67969">$L2</tspan></text>
   <text
@@ -2124,7 +2124,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="585.052"
      x="492.67969"><tspan
@@ -2133,7 +2133,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="585.052"
        x="492.67969">$P2<tspan
    id="tspan642"
@@ -2141,7 +2141,7 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">%</tspan></tspan></text>
+   font-family="'Helvetica'">%</tspan></tspan></text>
   <text
      id="text652"
      xml:space="preserve"
@@ -2152,7 +2152,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="585.052"
      x="404.67969"><tspan
@@ -2161,7 +2161,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="585.052"
        x="404.67969">$W2<tspan
    id="tspan648"
@@ -2169,7 +2169,7 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">≈</tspan></tspan></text>
+   font-family="'Helvetica'">≈</tspan></tspan></text>
   <text
      id="text658"
      xml:space="preserve"
@@ -2180,7 +2180,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="585.052"
      x="584.67969"><tspan
@@ -2189,7 +2189,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="585.052"
        x="584.67969">$M2<tspan
    id="tspan654"
@@ -2197,11 +2197,11 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">¤</tspan></tspan></text>
+   font-family="'Helvetica'">¤</tspan></tspan></text>
   <use
      id="use660"
      xlink:href="#$I3"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.182 0 0 .182 92 596)" />
@@ -2213,14 +2213,14 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="629.74304"
      x="7.6796875"><tspan
        id="tspan662"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="629.74304"
        x="7.6796875">$D3</tspan></text>
   <text
@@ -2233,7 +2233,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="629.74304"
      x="230.67969"><tspan
@@ -2242,7 +2242,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="629.74304"
        x="230.67969">$H3</tspan></text>
   <text
@@ -2255,7 +2255,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="629.74304"
      x="312.67969"><tspan
@@ -2264,7 +2264,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="629.74304"
        x="312.67969">$L3</tspan></text>
   <text
@@ -2277,7 +2277,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="629.74255"
      x="492.67969"><tspan
@@ -2286,7 +2286,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="629.74255"
        x="492.67969">$P3<tspan
    id="tspan674"
@@ -2294,7 +2294,7 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">%</tspan></tspan></text>
+   font-family="'Helvetica'">%</tspan></tspan></text>
   <text
      id="text684"
      xml:space="preserve"
@@ -2305,7 +2305,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="629.74255"
      x="404.67969"><tspan
@@ -2314,7 +2314,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="629.74255"
        x="404.67969">$W3<tspan
    id="tspan680"
@@ -2322,7 +2322,7 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">≈</tspan></tspan></text>
+   font-family="'Helvetica'">≈</tspan></tspan></text>
   <text
      id="text690"
      xml:space="preserve"
@@ -2333,7 +2333,7 @@
      text-align="end"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="629.74255"
      x="584.67969"><tspan
@@ -2342,7 +2342,7 @@
        text-anchor="end"
        text-align="end"
        font-size="40px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="629.74255"
        x="584.67969">$M3<tspan
    id="tspan686"
@@ -2350,11 +2350,11 @@
    text-anchor="end"
    text-align="end"
    font-size="20px"
-   font-family="'DejaVuSans'">¤</tspan></tspan></text>
+   font-family="'Helvetica'">¤</tspan></tspan></text>
   <use
      id="use692"
      xlink:href="#$MI"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      height="100%"
      width="100%"
      transform="matrix(.93762 0 0 .93762 488.37 181.87)" />
@@ -2363,7 +2363,7 @@
      xml:space="preserve"
      text-anchor="end"
      font-size="20px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      y="236.66443"
      x="590.81122"><tspan
        id="tspan698"
@@ -2371,7 +2371,7 @@
        text-anchor="end"
        text-align="end"
        font-size="22.667px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="236.66443"
        x="590.81122"><tspan
          id="tspan696"
@@ -2379,13 +2379,13 @@
          text-anchor="end"
          text-align="end"
          font-size="12px"
-         font-family="'DejaVuSans'"><tspan
+         font-family="'Helvetica'"><tspan
    id="tspan694"
    style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
    text-anchor="end"
    text-align="end"
    font-size="22.667px"
-   font-family="'DejaVuSans'">$MO</tspan>%</tspan></tspan></text>
+   font-family="'Helvetica'">$MO</tspan>%</tspan></tspan></text>
   <text
      id="text704"
      xml:space="preserve"
@@ -2394,7 +2394,7 @@
      word-spacing="0px"
      letter-spacing="0px"
      font-size="40px"
-     font-family="'DejaVuSans'"
+     font-family="'Helvetica'"
      fill="#000000"
      y="35.60091"
      x="595.15851"><tspan
@@ -2403,7 +2403,7 @@
        text-anchor="end"
        text-align="end"
        font-size="33.333px"
-       font-family="'DejaVuSans'"
+       font-family="'Helvetica'"
        y="35.60091"
        x="595.15851">$TEXT bei</tspan></text>
   <text
@@ -2428,17 +2428,17 @@
      x="10.240595"
      y="94.912727"
      font-size="7.9999px"
-     style="font-size:6.5746274px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82182223"
+     style="font-size:6.5746274px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82182223"
      id="text116">
     <tspan
        font-size="9.3333px"
-       style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82182223"
+       style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82182223"
        id="tspan114">MAX</tspan>
   </text>
   <text
      x="10.067225"
      y="106.54564"
-     style="font-size:9.86206436px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:9.86206436px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text122">
     <tspan
        font-size="16px"
@@ -2452,7 +2452,7 @@
   <text
      x="34.020935"
      y="126.18347"
-     style="font-size:9.86206436px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:9.86206436px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text128">
     <tspan
        font-size="60px"
@@ -2467,17 +2467,17 @@
      x="10.70233"
      y="82.114365"
      font-size="35px"
-     style="font-size:28.76435471px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:28.76435471px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text132">
     <tspan
        font-size="10.667px"
-       style="font-size:8.76655293px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:8.76655293px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan130">Windgeschw. (km/h)</tspan>
   </text>
   <text
      x="6.9002571"
      y="194.39607"
-     style="font-size:9.86206436px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:9.86206436px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text138">
     <tspan
        font-size="60px"
@@ -2492,11 +2492,11 @@
      x="10.133036"
      y="149.76799"
      font-size="10.667px"
-     style="font-size:8.76655293px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:8.76655293px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text142">
     <tspan
        font-size="10.667px"
-       style="font-size:8.76655293px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:8.76655293px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan140">Regenmenge (mm/24h)</tspan>
   </text>
   <text
@@ -2504,7 +2504,7 @@
      y="41.001785"
      letter-spacing="0px"
      word-spacing="0px"
-     style="font-size:9.86206436px;line-height:1.25;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
+     style="font-size:9.86206436px;line-height:1.25;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
      line-height="1.25"
      xml:space="preserve"
      id="text528"><tspan
@@ -2518,11 +2518,11 @@
      x="10.240583"
      y="29.374317"
      font-size="8px"
-     style="font-size:6.57470894px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:6.57470894px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text532">
     <tspan
        font-size="9.3333px"
-       style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan530">MAX</tspan>
   </text>
   <text
@@ -2530,7 +2530,7 @@
      y="60.726173"
      letter-spacing="0px"
      word-spacing="0px"
-     style="font-size:9.86206436px;line-height:1.25;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
+     style="font-size:9.86206436px;line-height:1.25;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
      line-height="1.25"
      xml:space="preserve"
      id="text538"><tspan
@@ -2544,17 +2544,17 @@
      x="10.240583"
      y="49.509106"
      font-size="8px"
-     style="font-size:6.57470894px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:6.57470894px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text542">
     <tspan
        font-size="9.3333px"
-       style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan540">MIN</tspan>
   </text>
   <text
      x="34.020935"
      y="61.147781"
-     style="font-size:9.86206436px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:9.86206436px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text548">
     <tspan
        font-size="60px"
@@ -2569,21 +2569,21 @@
      x="10.133036"
      y="17.505556"
      font-size="9.3333px"
-     style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text552">
     <tspan
        font-size="10.667px"
-       style="font-size:8.76655293px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:8.76655293px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan550">Luftfeuchtigkeit (%)</tspan>
   </text>
   <text
      x="8.3810101"
      y="128.01772"
-     style="font-size:9.86206436px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:9.86206436px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text712">
     <tspan
        font-size="30px"
-       style="font-size:24.655159px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:24.655159px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan710">≈</tspan>
   </text>
   <text
@@ -2591,7 +2591,7 @@
      y="239.0206"
      letter-spacing="0px"
      word-spacing="0px"
-     style="font-size:9.86206436px;line-height:1.25;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
+     style="font-size:9.86206436px;line-height:1.25;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
      line-height="1.25"
      xml:space="preserve"
      id="text528-5"><tspan
@@ -2605,11 +2605,11 @@
      x="10.353137"
      y="227.68781"
      font-size="8px"
-     style="font-size:6.57470894px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:6.57470894px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text532-7">
     <tspan
        font-size="9.3333px"
-       style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan530-7">PM10</tspan>
   </text>
   <text
@@ -2617,7 +2617,7 @@
      y="259.09064"
      letter-spacing="0px"
      word-spacing="0px"
-     style="font-size:9.86206436px;line-height:1.25;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
+     style="font-size:9.86206436px;line-height:1.25;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
      line-height="1.25"
      xml:space="preserve"
      id="text538-0"><tspan
@@ -2628,28 +2628,28 @@
      x="10.671492"
      y="248.33777"
      font-size="8px"
-     style="font-size:6.57470894px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:6.57470894px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text542-2">
     <tspan
        font-size="9.3333px"
-       style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan540-8">O3</tspan>
   </text>
   <text
      x="10.56395"
      y="216.11375"
      font-size="9.3333px"
-     style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text552-9">
     <tspan
        font-size="10.667px"
-       style="font-size:8.76655293px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:8.76655293px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan550-9">Luftqualität (µg/m³)</tspan>
   </text>
   <text
      x="72.767021"
      y="254.34871"
-     style="font-size:9.86206436px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:9.86206436px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text138-7">
     <tspan
        font-size="60px"
@@ -2665,7 +2665,7 @@
      y="259.09064"
      letter-spacing="0px"
      word-spacing="0px"
-     style="font-size:9.86206436px;line-height:1.25;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
+     style="font-size:9.86206436px;line-height:1.25;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
      line-height="1.25"
      xml:space="preserve"
      id="text528-5-7"><tspan
@@ -2676,11 +2676,11 @@
      x="42.554455"
      y="248.33777"
      font-size="8px"
-     style="font-size:6.57470894px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:6.57470894px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text542-2-3">
     <tspan
        font-size="9.3333px"
-       style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan540-8-2">NO2</tspan>
   </text>
   <text
@@ -2688,7 +2688,7 @@
      y="239.0206"
      letter-spacing="0px"
      word-spacing="0px"
-     style="font-size:9.86206436px;line-height:1.25;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
+     style="font-size:9.86206436px;line-height:1.25;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.82183862"
      line-height="1.25"
      xml:space="preserve"
      id="text538-0-8"><tspan
@@ -2699,11 +2699,11 @@
      x="42.801647"
      y="227.68967"
      font-size="8px"
-     style="font-size:6.57470894px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+     style="font-size:6.57470894px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
      id="text542-2-5">
     <tspan
        font-size="9.3333px"
-       style="font-size:7.67046642px;font-family:DejaVuSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
+       style="font-size:7.67046642px;font-family:Helvetica;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.82183862"
        id="tspan540-8-1">SO2</tspan>
   </text>
 </svg>
