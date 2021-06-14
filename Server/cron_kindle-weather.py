@@ -12,6 +12,7 @@
 ### - compatible with Kindle PaperWhite 2 (758 x 1024)#
 ###   and Kindle Touch (600 x 800)                    #
 ### - added Germany UBA air quality station data      #
+### - Changed SVG Font to Helvetica                   #
 ###													  #
 ### ToDo: hardcoded for 3 devices only +no air quality#
 ###       hardcoded humidity value for device WHZ     #
@@ -36,8 +37,9 @@ import pymysql # this library needs to be installed separately on Synology NAS: 
 from svglib.svglib import svg2rlg # this library needs to be installed separately on Synology NAS: via SSH with 'pip3 install svglib' 
 from reportlab.graphics import renderPM # this library is automatically installed when installing svglib
 from PIL import Image # this library is automatically installed when installing svglib 
-# To use DejaVuSans Font specified in SVG, install .TTF file in: /volume1/@appstore/py3k/usr/local/lib/python3.8/site-packages/reportlab/fonts/ via SSH
-from get_uba_airquality import get_uba_airquality
+# To use DejaVuSans Font specified in SVG, install .TTF file in: /volume1/@appstore/py3k/usr/local/lib/python3.8/site-packages/reportlab/fonts/ via SSH. Also chmod 644 DejaVuSans.ttf
+# As the folder font couldn't be found anymore after DS update, switched to use Helvetica font instead in SVG file
+from get_uba_airquality import get_uba_airquality # Include Air Quality code
 
 ####################
 # German time format
@@ -48,10 +50,10 @@ locale.setlocale(locale.LC_TIME, "de_DE.UTF-8")
 WEATHER_URL = "https://api.darksky.net/forecast"
 ###################################################################################################
 # UserInput (replace ... with your own info):
-WEATHER_KEY = "6c0d6810bdca1da5d13a092e8070062d"	# Get your own secret key by free registration at darksyky.net!
-CITY = "Jülich, NRW, DE"
-LATITUDE = "50.929925"
-LONGTITUDE = "6.363001"
+WEATHER_KEY = "..."	# Get your own secret key by free registration at darksyky.net!
+CITY = "..."
+LATITUDE = "..."
+LONGTITUDE = "..."
 
 PATH = "/volume1/web/kindleweatherdisplay" # Path to all files necessary for the script, placed in new folder "kindleweatherdisplay"
 LOG = "log/cron_kindle-weather.log"	# Create empty file in sub-directoy on server with this name
@@ -60,15 +62,15 @@ SVG_FILE2 = "%s/cron_kindle_touch-weather_preprocess.svg" % PATH # using SVG for
 SVG_OUTPUT = "%s/cron_kindle-weather_output.svg" % PATH
 TMP_OUTPUT = "%s/cron_kindle-weather_tmp.png" % PATH
 
-HOMEMATICIP = "192.168.178.3"	# IP of Homematic CCU
-DEVICES = [4633,3617,2294]		# DeviceID for Garten (Wettersensor), Wohnzimmer (Temp), DG-Whz (Temp); Pay attention to order, Max 3!
+HOMEMATICIP = "192.168.178.X"	# IP of Homematic CCU
+DEVICES = [...,...,...]		# DeviceID for Garten (Wettersensor), Wohnzimmer (Temp), DG-Whz (Temp); Pay attention to order, Max 3!
 								# See "http://{YOUR-HOMEMATICIP}/addons/xmlapi/state.cgi?device_id={DEVICE}"
 ROOMS = ["Wohnzimmer", "DG-Whz"]	# Order corresponding to device #2 and #3 (Max 2!)
 
 SQLHOST = "localhost"
 SQLPORT = 3307				# Port must be specified as number not string
-SQLUSER = "root"
-SQLPW = "43.gWkh!"
+SQLUSER = "..."
+SQLPW = "..."
 SQLDB = "homematic_data"	# Name of database with the following two tables
 SQLTAB = "SENSOR_DATA"		# Table with sensor data in three rows: SENSOR, VALUE, DATETIME
 SQLTAB2 = "HMIP_SENSORS"    # Optional: Table with overview of associated meta-data in rows: RAUM, ID, BEZEICHNUNG, SENSORART, SHORTFORM, EINHEIT
