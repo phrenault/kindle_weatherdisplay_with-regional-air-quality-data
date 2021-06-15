@@ -16,10 +16,12 @@
 ToDo: hardcoded for 3 devices only +no air quality
       hardcoded humidity value for device WHZ  
 
+---
+Ab hier grösstenteils die Beschreibung von Nico Hartung übernommen.
 
 WARNUNG:
 Schlagt es euch gleich erst mal aus dem Kopf, wenn ihr denkt, ihr haut das Skript auf einen Server im LAN und die Dateien auf das Kindle, fertig. So wird das nichts! Die beiden Skripts, vor allem aber `cron_kindle-wetter.py` (Server), welches für die Erstellung der PNG-Datei verantwortlich ist, ist extrem auf meine Bedürfnisse angepasst und muss von euch, an eure Geräte und Bedürfnisse, angepasst werden.
-Die Originalskripte wurden mit zahlreichen Kommentaren ergänzt, um es Einsteigern zu erleichtern. Insbesondere ist darauf zu achten jeweils die "XXXX" in den Dateien durch die eigenen Werte anzupassen. Sonst funktioniert es nicht.
+Die Originalskripte wurden mit zahlreichen Kommentaren ergänzt, um es Einsteigern zu erleichtern. Insbesondere ist darauf zu achten jeweils die "XXX" in den Dateien durch die eigenen Werte anzupassen. Sonst funktioniert es nicht.
 
 Ohne Basic-Kenntnisse im Skripting: **FINGER WEG!** (Diese Aussage von Nico Hartung kann ich nur unterstützen)
 
