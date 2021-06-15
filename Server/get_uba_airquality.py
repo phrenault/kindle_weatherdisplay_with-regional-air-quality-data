@@ -2,11 +2,12 @@
 
 def get_uba_airquality(state):
 	#############################################################################
-	# Skript zum Auslesen der UBA Luftqualitätsdaten							#
-	# Autor: Philippe Renault													#
-	# Datum: 28.05.2020 													 	#
+	# Skript zum Auslesen der UBA Luftqualitätsdaten                            #
+	# Autor: Philippe Renault                                                   #
+	# Datum: 28.05.2020                                                         #
 	# Kommentare: Werte brauchen nur alle 6h ab Mitternacht abgefragt zu werden #
-	# Anzupassen je nach Standort ist/sind die Stationsnummer(n)				#
+	# Anzupassen je nach Standort ist/sind die Stationsnummer(n),               #
+	# ebenfalls das Login für die Datenbank (siehe "XXX" als Platzhalter)       #
 	#############################################################################
 
 	# Beispiel CSV vom UBA für zwei Stationen in der Nähe von Musterhausen
@@ -51,7 +52,7 @@ def get_uba_airquality(state):
 
 	###########
 	# Variables
-	stations = ['1372','1129'] # Jackerath, Niederzier
+	stations = ['1372','1129'] # Jackerath, Niederzier as example
 
 	minus2st = timedelta(hours=-2) # Data are updated only once the full hour, so go back to previous hour for request
 	stunde = datetime.now() + minus2st
@@ -67,7 +68,7 @@ def get_uba_airquality(state):
 	SQLHOST = "localhost"
 	SQLPORT = 3307				# Port must be specified as number not string	
 	SQLUSER = "root"
-	SQLPW = "43.gWkh!"
+	SQLPW = "XXX"
 	SQLDB = "uba_data"			# Name of database with the following two tables
 	SQLTAB = "STATION_DATA"		# Table with final station data in three rows: SCHADSTOFF, MESSWERT, DATETIME
 	SQLTAB2 = "airqualityindex" # Table for lookup of description based on airqualityindex (LQI)
